@@ -35,10 +35,12 @@ git clone https://github.com/reptr/programC++.git  /direktori project
 
 ## Screenshoot
 Contoh program C++
+
 ![screenshoot C++](./screenshoot/SampleSSC++.PNG)
 
 Hasil compile & running program:
+
 ![screenshoot runC++](./screenshoot/SampleSSC++Compile.PNG)
 
 ## License
-MIT &copy; 2020 reptr
+MIT &copy; 2021 reptr
